@@ -8,7 +8,7 @@
 
 谢谢！
 
-[1] https://github.com/vuejs/cn.vuejs.org/tree/master/README.md
+[1] https://github.com/vuejs/cn.vuejs.org/tree/master/README.md 
 [2] https://github.com/vuejs/cn.vuejs.org/wiki
 
 -->
